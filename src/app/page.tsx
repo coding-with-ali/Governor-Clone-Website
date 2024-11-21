@@ -7,6 +7,8 @@ import Advancecourse from "../app/component/Advancecourse"
 
 
 export default function Page() {
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3139298744644114"
+     crossorigin="anonymous"></script>
   return (
     <div>
       <Herosection />
